@@ -132,9 +132,10 @@
 
   .sidebar .kepek {
     width: 100%;
-    aspect-ratio: 4 / 3;
+    /*aspect-ratio: 4 / 3;*/
     background: var(--Palletta_2);
     border: 1px solid var(--vonallll);
+    border-radius: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
